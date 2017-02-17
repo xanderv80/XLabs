@@ -1,0 +1,197 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xanderslaboratory.com" resolutions="1x" timestamp="1487122476910">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="169086315" ref="index"/>
+    <file name="nomq_index.css" crc="4120374510" ref="index"/>
+    <file name="master_global.css" crc="419190403" ref="blog:showcase:contact:projects"/>
+    <file name="nomq_preview_master_global.css" crc="4066806434" ref="blog:showcase:contact:projects"/>
+    <file name="blog.css" crc="4172518088" ref="blog"/>
+    <file name="nomq_blog.css" crc="223068015" ref="blog"/>
+    <file name="showcase.css" crc="318007174" ref="showcase"/>
+    <file name="nomq_showcase.css" crc="519197349" ref="showcase"/>
+    <file name="contact.css" crc="519297200" ref="contact"/>
+    <file name="nomq_contact.css" crc="467453702" ref="contact"/>
+    <file name="projects.css" crc="4102118121" ref="projects"/>
+    <file name="nomq_projects.css" crc="414362783" ref="projects"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:blog:projects:showcase"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contact:blog:projects:showcase"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:blog:projects:showcase"/>
+    <file name="museconfig.js" crc="3999795713" ref="index:contact:blog:projects:showcase"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contact:blog:projects:showcase"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:contact:blog:projects:showcase"/>
+    <file name="require.js" crc="4234670167" ref="index:contact:blog:projects:showcase"/>
+  </folder>
+  <folder name="images">
+    <file name="homepage-background.svg" crc="152440162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage background_poster_.png" crc="219096785" ref="index"/>
+    <file name="showcase.svg" crc="3832405696" seo="true" ref="showcase">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+    </file>
+    <file name="showcase_poster_.png" crc="4192834739" ref="showcase"/>
+    <file name="blogicon.svg" crc="3914588085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blogicon_poster_.png" crc="3961839351" ref="index"/>
+    <file name="robot-icon.svg" crc="3803727112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robot-icon_poster_.png" crc="204092154" ref="index"/>
+    <file name="github-icon.svg" crc="3817897772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-icon_poster_.png" crc="117654343" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:blog:projects:showcase"/>
+    <file name="favicon.ico" crc="520280194" ref="index:contact"/>
+    <file name="showcaseicon.svg" crc="4268939901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="showcaseicon_poster_.png" crc="4155053211" ref="index"/>
+    <file name="contact.svg" crc="16928356" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="contact_poster_.png" crc="452717256" ref="contact"/>
+    <file name="blogbutton.svg" crc="4270033768" seo="true" ref="contact:blog:projects:showcase">
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="blogbutton_poster_.png" crc="479879287" ref="contact"/>
+    <file name="githubbutton.svg" crc="496185842" seo="true" ref="contact:blog:projects:showcase">
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="githubbutton_poster_.png" crc="303274934" ref="contact"/>
+    <file name="robotbutton.svg" crc="4286812847" seo="true" ref="contact:blog:projects:showcase">
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="robotbutton_poster_.png" crc="3798461494" ref="contact"/>
+    <file name="showcasebutton.svg" crc="4071958491" seo="true" ref="contact:blog:projects:showcase">
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="showcasebutton_poster_.png" crc="270894656" ref="contact"/>
+    <file name="homebutton.svg" crc="225149239" seo="true" ref="contact:blog:projects:showcase">
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="showcase" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="homebutton_poster_.png" crc="4087340153" ref="contact"/>
+    <file name="blog.svg" crc="60031172" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="blog_poster_.png" crc="3804362063" ref="blog"/>
+    <file name="projects.svg" crc="4007658074" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="projects_poster_.png" crc="105749937" ref="projects"/>
+  </folder>
+  <file name="index.html" crc="61914813" seo="true" mt="1487120755242" redirect="true"/>
+  <file name="contact.html" crc="79097763" seo="true" mt="1487122464935" redirect="true"/>
+  <file name="blog.html" crc="36431516" seo="true" mt="1487122054667" redirect="true"/>
+  <file name="projects.html" crc="3947692835" seo="true" mt="1487122273355" redirect="true"/>
+  <file name="showcase.html" crc="443323802" seo="true" mt="1487121843324" redirect="true"/>
+</manifest>
