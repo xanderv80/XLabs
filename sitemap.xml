@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://xanderslaboratory.com/index.html</loc>
-    <lastmod>2017-02-14</lastmod>
+    <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>http://xanderslaboratory.com/contact.html</loc>
-    <lastmod>2017-02-14</lastmod>
+    <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -44,10 +44,22 @@
     <image:image>
       <image:loc>http://xanderslaboratory.com/images/homebutton.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://xanderslaboratory.com/images/linkedin-black.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanderslaboratory.com/images/deviantart_logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanderslaboratory.com/images/youtube_log.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://xanderslaboratory.com/images/download_resume.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://xanderslaboratory.com/blog.html</loc>
-    <lastmod>2017-02-14</lastmod>
+    <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,7 +83,7 @@
   </url>
   <url>
     <loc>http://xanderslaboratory.com/projects.html</loc>
-    <lastmod>2017-02-14</lastmod>
+    <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,7 +107,7 @@
   </url>
   <url>
     <loc>http://xanderslaboratory.com/showcase.html</loc>
-    <lastmod>2017-02-14</lastmod>
+    <lastmod>2017-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
